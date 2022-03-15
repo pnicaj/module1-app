@@ -1,4 +1,4 @@
-# Repo_URL 
+# Repo_URL https://github.com/pnicaj/module1-app
 
 npx create-react-app module1-app
 gh add .
